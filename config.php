@@ -1,9 +1,9 @@
-<?php
+lmag6s0zwmcswp5w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	<?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '');
+define('DB_SERVER', 'lmag6s0zwmcswp5w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_USERNAME', 'jqpm9robyw9zdwg3');
+define('DB_PASSWORD', 'r6909ozsqlldaggk');
 define('DB_NAME', 'greensolvs');
  
 /* Attempt to connect to MySQL database */
